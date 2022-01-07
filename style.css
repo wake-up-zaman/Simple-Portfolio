@@ -1,0 +1,117 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}   
+.name{
+    color: orange;
+}
+.flexi{
+    display: flex;
+    margin-bottom: 50px;
+
+}
+.first{
+    width: 50%;
+    margin-left: 100px;
+}
+.f1{
+    margin-top: 100px;
+}
+.first p{
+    text-align: justify;
+    margin-bottom: 30px;
+}
+.first img{
+    width: 60%;
+    height: 500px;
+}
+.single-line{
+    margin-top: 30px;
+}
+.link-button{
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+
+.mission{
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+.top2{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.develop{
+    margin-top: 150px;
+    background-image: url(Images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size:contain;
+    margin-left: 50px;
+}
+
+.sep img{
+    height:200px ;
+    width:200px
+}
+.sep{
+    box-shadow: 10px 10px 40px gray;
+    width:33%;
+    margin-right: 20px;
+    padding: 20px;
+    text-align: justify;
+    border-radius: 20px;
+
+}
+.sep1{
+    background-color:rgb(220, 235, 241);
+}
+.sep2{
+    background-color: rgb(240, 216, 211);
+}
+.sep3{
+    background-color: rgb(241, 232, 213);
+}
+.f2 img{
+    height: 400px;
+    width: 450px;
+
+}
+.f3{
+    margin-right: 100px;
+    margin-left: 10px;
+    width: 70%;
+
+}
+ .global{
+    background-image: url(Images/shape-1.png);  
+    margin-top: 150px;
+    background-repeat: no-repeat;
+    background-position-x: 1250px;
+    background-position-y: 360px;
+    background-size:150px;
+ }
+ .f4{
+    margin-right: 20px;
+    margin-left: 100px;
+    width: 50%;
+
+ }
+ .f5 img{
+    height: 450px;;
+    width: 450px; 
+    margin-bottom: 300px;
+ }
+ .build{
+     margin-top: 250px;
+ }
