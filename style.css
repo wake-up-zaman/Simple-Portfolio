@@ -4,7 +4,16 @@ body{
 }
 h1{
     font-size: 50px;
-}   
+} 
+.Vertical-line{
+        margin-top:150px;
+        margin-left: 100px;
+        width:7px;
+        height:140px;
+        border-radius:50px;
+        background:red;
+        transform:rotateZ(90);
+        } 
 .name{
     color: orange;
 }
@@ -15,10 +24,11 @@ h1{
 }
 .first{
     width: 50%;
-    margin-left: 100px;
+    margin-left: 65px;
 }
 .f1{
     margin-top: 100px;
+    margin-left: 10px;
 }
 .first p{
     text-align: justify;
@@ -56,8 +66,8 @@ h1{
     background-image: url(Images/shape-1.png);
     background-repeat: no-repeat;
     background-position: left;
-    background-size:contain;
-    margin-left: 50px;
+    background-size:200px;
+    margin-left: 10px;
 }
 
 .sep img{
@@ -97,8 +107,8 @@ h1{
     background-image: url(Images/shape-1.png);  
     margin-top: 150px;
     background-repeat: no-repeat;
-    background-position-x: 1250px;
-    background-position-y: 360px;
+    background-position-x: 1330px;
+    background-position-y: 350px;
     background-size:150px;
  }
  .f4{
@@ -110,8 +120,41 @@ h1{
  .f5 img{
     height: 450px;;
     width: 450px; 
-    margin-bottom: 300px;
+    margin-bottom: 100px;
+    margin-left: 100px;
  }
  .build{
-     margin-top: 250px;
+     text-align: center;
  }
+ .f7{
+     text-align: left;
+     margin-right: 100px;
+ }
+ .build{
+    background-image: url(Images/shape-3.png),url(Images/shape-3.png),url(Images/shape-3.png);  
+    background-repeat: no-repeat;
+    background-position-x: 160px,200px,500px;
+    background-position-y: 90px,520px,410px;
+    background-size: 150px,70px,70px;
+
+ }
+ footer{
+     background-color: black;
+     height:150px;
+ }
+ .content h3{
+    font-family:cursive;
+    text-align: center;
+    color:turquoise;
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 20px;
+ }
+ .name2{
+     color: tomato;
+ }
+ .footer-bottom{
+     color:whitesmoke;
+     text-align: center;
+ }
+ 
